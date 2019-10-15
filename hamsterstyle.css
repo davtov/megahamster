@@ -1,0 +1,6 @@
+html{
+    font-family: Calibri, "Calibri Light",sans-serif;
+    background-color: burlywood;
+    display:flex;
+    justify-content:center;
+}
